@@ -1,0 +1,13 @@
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\bin\Debug\netcoreapp3.1\CSharpOOPS.exe
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\bin\Debug\netcoreapp3.1\CSharpOOPS.deps.json
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\bin\Debug\netcoreapp3.1\CSharpOOPS.runtimeconfig.json
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\bin\Debug\netcoreapp3.1\CSharpOOPS.runtimeconfig.dev.json
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\bin\Debug\netcoreapp3.1\CSharpOOPS.dll
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\bin\Debug\netcoreapp3.1\CSharpOOPS.pdb
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.AssemblyInfoInputs.cache
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.AssemblyInfo.cs
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.csproj.CoreCompileInputs.cache
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.dll
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.pdb
+C:\Users\onkar\source\repos\CSharpOOPS\CSharpOOPS\obj\Debug\netcoreapp3.1\CSharpOOPS.genruntimeconfig.cache

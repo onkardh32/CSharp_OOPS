@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|c:\\users\\onkar\\source\\repos\\csharpoops\\csharpoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|solutionrelative:csharpoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|c:\\users\\onkar\\source\\repos\\csharpoops\\csharpoops\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|solutionrelative:csharpoops\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|c:\\users\\onkar\\source\\repos\\csharpoops\\csharpoops\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|solutionrelative:csharpoops\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|c:\\users\\onkar\\source\\repos\\csharpoops\\csharpoops\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|solutionrelative:csharpoops\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|c:\\users\\onkar\\source\\repos\\csharpoops\\csharpoops\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|solutionrelative:csharpoops\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|c:\\users\\onkar\\source\\repos\\csharpoops\\csharpoops\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0FFA8F-B76F-48DB-A62B-806781320C61}|CSharpOOPS\\CSharpOOPS.csproj|solutionrelative:csharpoops\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Abstraction.cs",
+              "RelativeDocumentMoniker": "CSharpOOPS\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Abstraction.cs*",
+              "RelativeToolTip": "CSharpOOPS\\Abstraction.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:27:37.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "CSharpOOPS\\Polymorphism.cs",
+              "ToolTip": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Polymorphism.cs",
+              "RelativeToolTip": "CSharpOOPS\\Polymorphism.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:20:44.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Inheritance.cs",
+              "RelativeDocumentMoniker": "CSharpOOPS\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Inheritance.cs",
+              "RelativeToolTip": "CSharpOOPS\\Inheritance.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:36:00.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpOOPS\\Program.cs",
+              "ToolTip": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Program.cs*",
+              "RelativeToolTip": "CSharpOOPS\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:36:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Interface.cs",
+              "RelativeDocumentMoniker": "CSharpOOPS\\Interface.cs",
+              "ToolTip": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Interface.cs",
+              "RelativeToolTip": "CSharpOOPS\\Interface.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:20:13.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Car.cs",
+              "RelativeDocumentMoniker": "CSharpOOPS\\Car.cs",
+              "ToolTip": "C:\\Users\\onkar\\source\\repos\\CSharpOOPS\\CSharpOOPS\\Car.cs",
+              "RelativeToolTip": "CSharpOOPS\\Car.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:27:59.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
